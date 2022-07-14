@@ -1,5 +1,5 @@
 <h1 align="start">Hi There 👋</h1>
-<h2>I'm Jacob Kyalo</h2>
+<h2>Jacob Kyalo here...</h2>
 <h3 align="start">A passionate frontend developer</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/jacobkyalo202" target="blank"><img src="https://img.shields.io/twitter/follow/jacobkyalo202?logo=twitter&style=for-the-badge" alt="jacobkyalo202" /></a> </p> -->
