@@ -1,8 +1,7 @@
 <h3 align="start">Hi There 👋 Jacob Kyalo here...</h3>
 <h5 align="start">A passionate frontend developer</h5>
 
-
-<p backgroundColor="black">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobkyalo&show_icons=true&locale=en" alt="jacobkyalo" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobKyalo&show_icons=true&theme=radical)
 
 <!-- <p align="left"> <a href="https://twitter.com/jacobkyalo202" target="blank"><img src="https://img.shields.io/twitter/follow/jacobkyalo202?logo=twitter&style=for-the-badge" alt="jacobkyalo202" /></a> </p> -->
 
