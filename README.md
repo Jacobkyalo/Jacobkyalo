@@ -1,4 +1,4 @@
-<h3 align="start">Hi There 👋 Jacob Kyalo here...</h3>
+<h3 align="start">Hello 👋 Jacob Kyalo here...</h3>
 <h5 align="start">A Frontend Web Developer</h5>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobKyalo&show_icons=true&theme=radical)
