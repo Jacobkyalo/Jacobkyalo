@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Jacob Kyalo</h1>
 <h3>A frontend developer 👨‍💻 and a student 🚀</h3>
 
- 🔭 I’m currently working on [practicedev.io](https://github.com/Jacobkyalo/devblogs)
+ 🔭 I’m currently working on [devblogs.io](https://github.com/Jacobkyalo/devblogs)
 
  🌱 I’m currently learning **MERN stack**
 
